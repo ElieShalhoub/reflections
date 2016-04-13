@@ -23,3 +23,8 @@ It helps in understand the master repository, and the other branches coming out 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a new commited branch with merged functionalities
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Seamlessly adding new features
+Consconflicts might arise
