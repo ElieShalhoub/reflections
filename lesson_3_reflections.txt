@@ -7,3 +7,11 @@ stay up-to-date with your remote repository?
 
 	Because the code pushed to GitHub might be from other collaborators that you would 
 	want to check before pulling into local repository
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	
+	fork: Is a clone that takes place on GitHub servers
+	clone: Is when you copy a repository from GitHub to a local repository, or
+		   from a local repository to another local repository.
+	branch: Is when you create a copy of the repository and give it a name tag, so that
+			you have changes performed on this copy, and not any other.
