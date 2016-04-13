@@ -7,3 +7,7 @@ for version control
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It offers a place where you can test stuff before commiting 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding files to the staging area per logical change
